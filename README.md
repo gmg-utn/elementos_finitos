@@ -23,14 +23,25 @@ La idea es presentar diferentes conceptos utilizando [Jupyter notebooks](https:/
     a. [FEniCS en 1D](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_1D/fem1D_introFEniCS.ipynb)<br>
     b. [Ejemplo mecánico](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_1D/mecanica1D.ipynb)<br> 
     c. [Elementos Finitos en 1D con condición de contorno Robin](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_1D/fem1D_Robin.ipynb)<br>
-    d. Ejemplo térmico<br>
-3. Elementos Finitos en 2D para problemas estacionarios, estáticos
-4. Problemas dependientes del tiempo
-5. Resolución iterativa
-6. Mecánica de sólidos
-7. Ecuación de calor
-8. Mecánica de fluidos
+    d. [Ejemplo térmico](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_1D/termico1D.ipynb)<br>
+    e. [Ejemplo matemático](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_1D/matematico1D.ipynb)<br>
+3. Elementos Finitos en 2D para problemas estacionarios, estáticos <br>
+    a. [Teorema de la divergencia y fórmula de Green y ejemplo](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_2D/fem2D.ipynb)<br>
+    b. Comentarios sobre la solución <br>
+    c. [Ejemplo de malla generada con Gmsh y problema térmico no lineal.](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_2D/termico2D.ipynb)<br>
+    d. [Elasticidad lineal estática](https://github.com/rirastorza/Intro2FEM/blob/master/Elementos_finitos_en_2D/ElasticidadLineal2D.ipynb)<br>
+4. Problemas dependientes del tiempo<br>
+    a. [Introducción y problema térmico](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas_dependientes_del_tiempo/Introduccion_problema_termico.ipynb)<br>
+    b. [Elastodinámica parte 1](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas_dependientes_del_tiempo/Problema_elastodinamico.ipynb) <br>
+    c. [Elastodinámica parte 2](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas_dependientes_del_tiempo/Problema_elastodinamico2.ipynb) <br>
+    d. [Modos normales de vibración](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas_dependientes_del_tiempo/AnalisisModosdeVibracion.ipynb) <br>
+    e. [Dinámica de fluidos: Navier-Stokes parte 1](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas_dependientes_del_tiempo/navier_stokes_parte1.ipynb) <br>
+    f. [Dinámica de fluidos: Navier-Stokes parte 2](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas_dependientes_del_tiempo/navier_stokes_parte2.ipynb) <br>
+5. Problemas acoplados<br>
+    a. [Problema mecánico-térmico débilmente acoplado](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas%20acoplados/TermoelasticidadLinealParte1.ipynb)<br>
+    b. [Problema mecánico-térmico acoplado](https://github.com/rirastorza/Intro2FEM/blob/master/Problemas%20acoplados/TermoelasticidadLinealParte1.ipynb)<br>
 
+6. Resolución iterativa
 
 ---
 
